@@ -1,4 +1,4 @@
-# Primer-Codigo-en-python
+# Primera-Clase-en-python
 
 Codigo de Operaciones Aritmeticas
 Cuya funcion es calcular operaciones como: Suma,Resta,Multiplicacion,Division
